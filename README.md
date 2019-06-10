@@ -12,9 +12,7 @@
 #### Motion deblur
 
   deblurredim=myWienerFilter(filename ,'motion',len, theta,SNR)
-Inline-style: 
+ 
 ![alt text](https://github.com/ozheng1993/Wiener-Filter/blob/master/image/img2.png)
 
-
-Inline-style: 
 ![alt text](https://github.com/ozheng1993/Wiener-Filter/blob/master/image/img1.png)
